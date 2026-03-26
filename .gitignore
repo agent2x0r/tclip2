@@ -1,0 +1,7 @@
+# Binaries
+tclip2
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
